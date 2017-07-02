@@ -3,9 +3,6 @@
 C:.<br />
 │   build.xml<br />
 │   manifest.mf<br />
-├───dist<br />
-│       BattelCity.jar<br />
-│       README.TXT<br />
 │<br />
 ├───nbproject<br />
 │   │   build-impl.xml<br />
